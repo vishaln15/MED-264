@@ -26,4 +26,4 @@ The data is part of *All of Us* Registered Tier Dataset (version 7). The noteboo
 
 ## Acknowledgements
 
-We would like thank Dr. Tsung Tim Kuo (instructor) for arranging lectures with various other lecturers for our sessions. We would like to also thank the TAs of this course.
+We would like thank Dr. Tsung-Ting Kuo (instructor) for arranging lectures with various other lecturers for our sessions. We would like to also thank the TAs of this course, Grace Yufei Yu and Aaron Boussina.
