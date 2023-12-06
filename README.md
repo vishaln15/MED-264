@@ -13,6 +13,9 @@ The data is part of *All of Us* Registered Tier Dataset (version 7). The noteboo
 3. [data_cleaning.ipynb](./data_cleaning.ipynb) - In this notebook, the missing data for each feature is imputed with the patient level mean.
 4. [data_splitting.ipynb](./data_splitting.ipynb) - In this notebook, the dataset is split into train and test after feature engineering. The split ensures that there is no leakage of patient level data on train and test sets.
 5. [model_building.ipynb](./model_building.ipynb) - Traditional machine learning models such as Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and XGBoost Classifier are chosen to perform both multi-class and binary class classification tasks. The results of these are available in the notebooks.
+6. [data_correlation_and_statistics.ipynb](./data_correlation_and_statistics.ipynb) - General statistics about the population and correlation among features is captured in this notebook.
+7. [python_ordinal_regression.ipynb](./python_ordinal_regression.ipynb) - Ordinal Regression regression is carried out to observe the odd ratios and 95% confidence intervals. Furthermore, the statistical significance (p-values) is reported in this notebook.
+8. [assets/](./assets/) - Contains all the illustrations derived from our study.
 
 ## Explainability of Random Forest Classifier
 
